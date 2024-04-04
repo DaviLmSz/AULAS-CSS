@@ -1,0 +1,10 @@
+h1 {
+    color: white;
+    background-color: rgb(2, 2, 165);
+    text-shadow: 3px 2px 5px;
+}
+h2 {
+    color: rgb(2, 2, 124);
+    background-color: rgba(162, 0, 255, 0.356);
+}
+

@@ -1,0 +1,11 @@
+body {
+    background-color: rgba(127, 255, 212, 0.596);
+}
+.cordefundo{
+    background-color: aqua;
+    text-align: center;
+    font-size: 20px;
+}
+p.cortexto {
+    color: rgb(25, 0, 255);
+}

@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+}
+article {
+  color: aqua;
+}
+.paçoca {
+  color: blue;
+}
+h2 {
+  color: brown;
+}
+#paçoquita {
+  color: chartreuse;
+}
+nav.a {
+  color: yellow;
+}
+article p{
+    color: purple;
+}
+h1,h2 {
+    color: chocolate;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(63, 1, 63);
+}
+h1 {
+    color: antiquewhite;
+}
+header p{
+    color: antiquewhite;
+}
+article p {
+    background-color: antiquewhite;
+}
+h2 {
+    color: antiquewhite;
+}
+footer {
+    color: antiquewhite;
+}

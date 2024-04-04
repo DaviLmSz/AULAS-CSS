@@ -1,0 +1,16 @@
+body {
+      font-family: "Dancing Script", cursive;
+      font-optical-sizing: auto;
+      font-weight: 400;
+      font-style: normal;
+      background-color:rgb(160, 205, 96); }
+    
+    h1 {
+        color: rgb(28, 100, 109);
+        background-color: rgb(206, 240, 157);
+    }
+    p{
+        color: rgb(28, 100, 109);
+        background-color: rgb(206, 240, 157);
+        font-size: 20px;
+    }
