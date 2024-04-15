@@ -1,0 +1,10 @@
+.bemdez {
+  overflow: auto;
+  border: 1px solid;
+}
+
+.p1{
+    float: left;
+}
+
+.p2{clear: right;}
